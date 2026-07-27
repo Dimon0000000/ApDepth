@@ -195,7 +195,7 @@ export BASE_DATA_DIR=YOUR_DATA_DIR  # directory of training data
 export BASE_CKPT_DIR=YOUR_CHECKPOINT_DIR  # directory of pretrained checkpoint
 ```
 
-Download Stable Diffusion v2 [checkpoint](https://huggingface.co/sd2-community/stable-diffusion-2) into `${BASE_CKPT_DIR}`
+Download Stable Diffusion v2 [checkpoint](https://huggingface.co/sd2-community/stable-diffusion-2-1) into `${BASE_CKPT_DIR}`
 
 Download the checkpoint of [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) into `DA2/checkpoints/`. Stage 1 uses the ViT-G checkpoint by default at `DA2/checkpoints/depth_anything_v2_vitg.pth` as the external semantic encoder.
 
