@@ -1,4 +1,4 @@
 model:
   name: apdepth_pipeline
-  pretrained_path: stable-diffusion-2
+  pretrained_path: stable-diffusion-2-1
   latent_scale_factor: 0.18215
